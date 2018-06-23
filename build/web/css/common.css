@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.button_main{
+	font-size:16px;
+	font-weight:600;
+	border-radius:5px;
+	height:50px;
+	border:none;
+	width:80%;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:white;
+	}
+
